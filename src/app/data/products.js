@@ -1,0 +1,58 @@
+const products = [
+  {
+    id: 1,
+    title: "Premium Headphones",
+    description: "هدفون حرفه‌ای با کیفیت صدای فوق‌العاده",
+    price: 2500000,
+    emoji: "🎧",
+    color: "#dbeafe",
+    category: "Electronics",
+  },
+  {
+    id: 2,
+    title: "Smart Watch",
+    description: "ساعت هوشمند با طراحی مدرن",
+    price: 3800000,
+    emoji: "⌚",
+    color: "#fce7f3",
+    category: "Accessories",
+  },
+  {
+    id: 3,
+    title: "Wireless Mouse",
+    description: "ماوس بی‌سیم مناسب کار و گیمینگ",
+    price: 850000,
+    emoji: "🖱️",
+    color: "#dcfce7",
+    category: "Electronics",
+  },
+  {
+    id: 4,
+    title: "Mechanical Keyboard",
+    description: "کیبورد مکانیکال با کلیدهای حرفه‌ای",
+    price: 2100000,
+    emoji: "⌨️",
+    color: "#fef3c7",
+    category: "Accessories",
+  },
+  {
+    id: 5,
+    title: "Digital Camera",
+    description: "دوربین دیجیتال با کیفیت تصویر بالا",
+    price: 7500000,
+    emoji: "📷",
+    color: "#ede9fe",
+    category: "Photography",
+  },
+  {
+    id: 6,
+    title: "Bluetooth Speaker",
+    description: "اسپیکر بلوتوثی قابل حمل",
+    price: 1600000,
+    emoji: "🔊",
+    color: "#ffedd5",
+    category: "Electronics",
+  },
+];
+
+export default products;
